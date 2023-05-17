@@ -1,1 +1,3 @@
 # crolax_update_for_chatgpt
+
+每次更新clash配置文件的时候，自动生成一个全新的chatgpt.yaml
